@@ -56,6 +56,12 @@ Every future project will inherit the standards defined here.
 
 ---
 
+## Projects
+
+- [Portfolio](https://github.com/angelajasso/portfolio)
+
+---
+
 ## Author
 
 Angela Jasso  
