@@ -3,37 +3,41 @@
 A structured engineering framework designed to build long-term technical discipline, architectural thinking, and maintainable systems.
 
 This repository is not a collection of random exercises.  
-It is a deliberate foundation for software engineering excellence.
+It is a deliberate foundation for professional software engineering practices.
 
 ---
 
 ## Purpose
 
-To develop:
+The goal of this repository is to establish the principles and standards that guide all future projects.
+
+It focuses on:
 
 - Structural thinking
 - Architecture-first mindset
 - Maintainable code practices
-- Long-term technical standards
-- Professional Git discipline
-
-This repository defines the principles and quality standards that govern all future projects.
+- Accessibility awareness
+- Professional Git workflows
+- Documentation discipline
 
 ---
 
 ## Core Philosophy
 
-Programming solves tasks.  
-Engineering designs systems that survive over time.
+Good software is not only code that works.
 
-This repository prioritizes:
+Professional software must also be:
 
-- Structure over speed
-- Clarity over cleverness
-- Maintainability over shortcuts
-- Discipline over improvisation
+- Understandable
+- Maintainable
+- Accessible
+- Well structured
+- Documented
+
+Engineering discipline is what allows software systems to scale and evolve over time.
 
 ---
+
 
 ## Standards
 
