@@ -1,68 +1,50 @@
 # Engineering Foundations
 
-A structured engineering framework designed to build long-term technical discipline, architectural thinking, and maintainable systems.
+A structured knowledge base documenting core concepts of web development and software engineering.
 
-This repository is not a collection of random exercises.  
-It is a deliberate foundation for professional software engineering practices.
+This repository explores how the web platform works and how software systems should be designed.
+
+---
+
+## Documentation
+
+### Platform
+
+HTML and CSS fundamentals of the web platform.
+
+- CSS Foundations  
+- Box Model  
+- Accessibility Foundations
+
+### Engineering
+
+Principles and practices for building reliable software systems.
+
+- Engineering Principles
+- Architecture Principles
+- Code Standards
+- Git Workflow
+- Quality Checklist
+- Project Structure
 
 ---
 
 ## Purpose
 
-The goal of this repository is to establish the principles and standards that guide all future projects.
-
-It focuses on:
-
-- Structural thinking
-- Architecture-first mindset
-- Maintainable code practices
-- Accessibility awareness
-- Professional Git workflows
-- Documentation discipline
-
----
-
-## Core Philosophy
-
-Good software is not only code that works.
-
-Professional software must also be:
-
-- Understandable
-- Maintainable
-- Accessible
-- Well structured
-- Documented
-
-Engineering discipline is what allows software systems to scale and evolve over time.
-
----
-
-
-## Standards
-
-All work inside this repository follows:
-
-- Defined Engineering Principles
-- Quality Checklist validation
-- Atomic commit discipline
-- Clean main branch policy
-
-No experimental code reaches `main`.
-
----
-
-## Long-Term Vision
-
-This repository represents the beginning of a professional engineering identity.
-
-Every future project will inherit the standards defined here.
+This repository serves as a personal engineering handbook to document mental models, platform mechanics, and development practices.
 
 ---
 
 ## Projects
 
 - [Portfolio](https://github.com/angelajasso/portfolio)
+
+---
+
+
+# 📜 License
+
+MIT License
 
 ---
 
