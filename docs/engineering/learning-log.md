@@ -241,3 +241,24 @@ Apply this mental model when building layouts (Flexbox)
 
 ---
 
+## 2026-04-07
+
+### Focus
+CSS Box Model: Margin, border, Padding, content
+
+### Key Learning
+The actual size of an element includes padding and border.
+
+### Important Rule
+Always use:
+
+box-sizing: border-box;
+
+### Common Mistake
+Confusing padding with margin.
+
+### Insight
+Spacing should be intentional.
+
+---
+
