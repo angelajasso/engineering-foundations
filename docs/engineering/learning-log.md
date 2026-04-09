@@ -262,3 +262,23 @@ Spacing should be intentional.
 
 ---
 
+## 2026-04-08
+
+### Focus
+CSS Flexboxl: flex-direction, justify-content, align-items, gap
+
+### Key Learning
+Flexbox is a one-dimensional layout system used to control alignment and space distribution.
+
+### Insight
+
+Changing flex-direction changes how alignment works.
+
+### Outcome
+- Built a navbar with Flexbox
+- Centered elements without hacks
+- Improved layout predictability
+
+---
+
+
