@@ -281,4 +281,29 @@ Changing flex-direction changes how alignment works.
 
 ---
 
+## 2026-04-09
+
+### Focus
+CSS Grid: container, items, rows, columns, gap, fraction units (fr), Grid lines.
+
+### key Learning
+CSS Grid is a two-dimensional layout system used to control rows and columns simultaneously.
+
+### Insight
+
+Grid is used for layout structure, not small alignment.
+
+### Modern CSS Architecture
+
+Grid → handles page layout  
+Flexbox → handles internal alignment  
+
+### Best Practice
+
+Always think in layout systems before writing CSS.
+
+1D → Flexbox  
+2D → Grid
+
+---
 
