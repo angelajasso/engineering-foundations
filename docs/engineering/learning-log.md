@@ -307,3 +307,33 @@ Always think in layout systems before writing CSS.
 
 ---
 
+## 2026-04-10
+
+### Focus
+Responsive Disign: Mobile-first, breakpoints, Layout strategy.
+
+### key Learning
+Responsive design is not about resizing, but about rethinking layouts based on available space.
+
+### Mobile First Approach
+
+Modern development follows a mobile-first strategy:
+
+1. Design for small screens first
+2. Enhance layouts using min-width media queries
+
+### Breakpoints
+
+- 768px → Tablet
+- 1024px → Laptop
+- 1280px → Desktop
+
+### Layout Strategy
+
+- Grid → Page structure
+- Flexbox → Component alignment
+
+---
+
+
+
