@@ -335,5 +335,25 @@ Modern development follows a mobile-first strategy:
 
 ---
 
+## 2026-04-10
 
+### Focus
+Design System Basics: Core Elements, Tokens.
 
+### key Learning
+A design system is not about styling individual components, but about defining reusable rules.
+
+### Core Elements
+
+- Typography scale
+- Spacing scale
+- Color tokens
+- Reusable components
+
+### Tokens
+
+Design tokens are reusable values such as colors, spacing, and typography.
+
+They are defined using CSS variables and applied across the system.
+
+---
