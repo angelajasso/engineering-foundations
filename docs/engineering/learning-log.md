@@ -357,3 +357,22 @@ Design tokens are reusable values such as colors, spacing, and typography.
 They are defined using CSS variables and applied across the system.
 
 ---
+
+## 2026-04-13
+
+### Focus
+JavaScript Mental Model: Data types, Conditionals, Logical operators
+
+## Key Learning
+
+JavaScript evaluates values and executes decisions.
+
+## Common Mistake
+
+Confusing `==` with `===`
+
+## Insight
+
+The power of JavaScript lies in **controlling the flow of the program**, not just writing code.
+
+---
