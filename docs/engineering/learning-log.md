@@ -376,3 +376,24 @@ Confusing `==` with `===`
 The power of JavaScript lies in **controlling the flow of the program**, not just writing code.
 
 ---
+
+## 2026-04-14
+
+### Focus
+JavaScript Functions and Single Responsibility
+
+## What I Learned
+
+Today I understood that a function is not just about reusing code, but about encapsulating logic with a single responsibility.
+
+I learned:
+- The difference between parameters and arguments
+- The importance of return
+- What pure vs impure functions are
+- How to apply the SRP principle
+
+## Key Insight
+
+Breaking functions down makes code more maintainable, scalable, and easier to understand.
+
+---
