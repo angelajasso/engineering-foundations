@@ -397,3 +397,28 @@ I learned:
 Breaking functions down makes code more maintainable, scalable, and easier to understand.
 
 ---
+
+## 2026-04-16
+
+### Focus
+JavaScript Arrays and Data Transformation
+
+### What I Learned
+
+Today I understood that arrays are not just collections of data, but a powerful way to transform and process information using a declarative approach.
+
+I learned:
+
+- How to use `map()` to transform data
+- How to use `filter()` to select specific elements
+- How to use `reduce()` to accumulate values
+
+### Key Insight
+
+Thinking in terms of data transformation changes how I approach problems.
+
+Instead of focusing on *how* to iterate step by step, I focus on *what* result I want to achieve.
+
+Using methods like `map`, `filter`, and `reduce` allows me to build clear and expressive data pipelines.
+
+---
