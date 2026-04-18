@@ -422,3 +422,22 @@ Instead of focusing on *how* to iterate step by step, I focus on *what* result I
 Using methods like `map`, `filter`, and `reduce` allows me to build clear and expressive data pipelines.
 
 ---
+
+## 2026-04-17
+
+### What I Learned
+Today I learned that objects are not just code structures, but representations of real-world entities.
+
+I understood:
+- The difference between data and logic
+- How to design clear object structures
+- How destructuring and spread improve code readability
+
+### Challenges
+- Avoiding adding logic inside objects
+- Thinking in terms of models instead of implementation
+
+### Improvements
+- My code is now more structured and readable
+- I think more about scalability and clarity
+---
