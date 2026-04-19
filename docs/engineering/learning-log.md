@@ -441,3 +441,60 @@ I understood:
 - My code is now more structured and readable
 - I think more about scalability and clarity
 ---
+
+## 2026-04-18
+
+### 🎯 Goal
+
+Understand the DOM as a system and learn how to connect JavaScript with real user interaction.
+
+### 🔍 What I Learned
+
+- The DOM is not just for selecting elements, but a **live system**
+- JavaScript interacts with **nodes in memory**
+- Events are the bridge between user actions and system behavior
+- UI updates happen through DOM manipulation
+
+### ⚡ Key Insights
+
+- "JavaScript does not draw UI — it modifies the DOM"
+- "Events are inputs, functions are reactions"
+- "The DOM behaves like a state container for the interface"
+
+### 🧩 Mental Model
+
+Interaction flow:
+
+1. Select element
+2. Listen to event
+3. Trigger function
+4. Update DOM
+5. UI reflects change
+
+### 🛠️ What I Built
+
+- A simple interactive UI:
+  - Button click updates text
+  - DOM manipulation in real time
+  - Clean separation between HTML and JS
+
+### 🧠 Challenges
+
+- Understanding the difference between `textContent` and `innerHTML`
+- Avoiding inline event handlers
+- Thinking in terms of system flow instead of isolated code
+
+### 💡 Improvements
+
+- Add validation for missing elements
+- Decouple logic into reusable functions
+- Structure code for scalability
+
+### 🔁 What I Would Do Next
+
+- Build a toggle system (dark/light mode)
+- Create reusable UI handlers
+- Explore event delegation
+- Combine DOM + state patterns
+
+---
