@@ -498,3 +498,23 @@ Interaction flow:
 - Combine DOM + state patterns
 
 ---
+
+## 2026-04-20
+
+### Focus
+- Scope
+- Hoisting
+- Execution Context
+- Call Stack
+
+### What changed in my thinking
+I stopped seeing JavaScript as line-by-line execution and started understanding its two-phase model (creation and execution).
+
+### Hardest concept
+Understanding hoisting vs temporal dead zone.
+
+### What I can now build that I couldn't before
+I can debug unpredictable behavior and structure code with better control over scope and execution.
+
+---
+
