@@ -518,3 +518,17 @@ I can debug unpredictable behavior and structure code with better control over s
 
 ---
 
+## 2026-04-21
+
+### What I understood
+Events are not just actions like clicks, but signals that drive the interaction between the user and the system.  
+Designing the user flow before coding makes the implementation clearer and more structured.
+
+### What was harder than expected
+Thinking in terms of state and flow instead of directly writing event logic.
+
+### What I improved
+Separation between logic, state, and UI.  
+Better understanding of how to control form behavior using events.
+
+---
