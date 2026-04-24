@@ -532,3 +532,34 @@ Separation between logic, state, and UI.
 Better understanding of how to control form behavior using events.
 
 ---
+
+## 2026-04-23
+
+### 🎯 Topic
+Modularization and Separation of Responsibilities
+
+### 🧠 What I understood
+
+- How to divide a system into independent modules  
+- Real usage of import/export in JavaScript  
+- The importance of separating UI, logic, data, and events  
+- How to structure a project for scalability  
+
+### 😵 What was harder than expected
+
+- Correctly deciding the responsibility of each module  
+- Avoiding mixing logic with UI  
+
+### 🚀 What I improved
+
+- Architectural thinking  
+- Code organization  
+- Clarity in project structure  
+
+### 🔥 Key insight
+
+I don’t organize files...
+
+I design maintainable systems.
+
+---
