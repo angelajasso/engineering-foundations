@@ -563,3 +563,33 @@ I don’t organize files...
 I design maintainable systems.
 
 ---
+
+## 2026-04-24
+
+### 🎯 Topic
+Basic State Management
+
+### 🧠 What I understood
+
+- State is the source of truth of the application
+- The UI is just a representation of the state
+- The correct flow is: state → render → UI
+- Directly manipulating the DOM breaks consistency
+
+### 😵 What was harder than expected
+
+- Stopping thinking in terms of the DOM and starting to think in terms of data
+- Understanding that events should not modify the UI directly
+
+### 🚀 What I improved
+
+- I centralized my application logic
+- My UI is now predictable and easier to debug
+- I started to understand how modern frameworks work
+
+### 🔥 Key insight
+
+The problem is not updating the UI  
+The problem is maintaining a single source of truth
+
+---
