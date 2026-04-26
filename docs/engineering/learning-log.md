@@ -593,3 +593,39 @@ The problem is not updating the UI
 The problem is maintaining a single source of truth
 
 ---
+
+## 2026-04-25
+
+### 🎯 Topic
+Asynchronous JavaScript: Promises & Fetch API
+
+### 🧠 What I understood
+
+- JavaScript is non-blocking and event-driven
+- Promises represent future values, not immediate data
+- async/await improves readability but does not change behavior
+- The real control is in state management, not in fetch itself
+- UI should react to state: loading, success, error
+
+### 😵 What was harder than expected
+
+- Thinking in non-linear flow
+- Understanding that code execution continues while waiting
+- Structuring logic without mixing responsibilities
+
+### 🚀 What I improved
+
+- Separation between API, state, and UI
+- Error handling with try/catch
+- Cleaner async flow using async/await
+
+### 🔥 Key insight
+
+You don't wait for data —  
+you design how your system reacts when it arrives.
+
+### 🧩 Next step
+
+Integrate a real music API and render dynamic content in the landing page
+
+---
