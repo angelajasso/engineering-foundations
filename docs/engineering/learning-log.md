@@ -629,3 +629,38 @@ you design how your system reacts when it arrives.
 Integrate a real music API and render dynamic content in the landing page
 
 ---
+
+
+---
+
+## 2026-04-26
+
+### 🎯 Tema
+Error Handling & Robust UI
+
+### 🧠 What I understood
+
+- Errors are part of the normal flow
+- UI must represent system state (loading, success, error)
+- Not all errors are the same (network, server, data)
+- Empty data is not always an error
+
+### 😵 What was harder than expected
+
+- Designing clear UI states
+- Differentiating error vs empty state
+- Translating technical errors into user-friendly messages
+
+### 🚀 What I improved
+
+- Built a more resilient UI
+- Improved user experience during failures
+- Implemented retry logic
+
+### 🔥 Insight
+
+A professional app is not the one that never fails…
+
+but the one that **handles failure gracefully**
+
+---
