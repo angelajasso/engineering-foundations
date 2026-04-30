@@ -664,3 +664,22 @@ A professional app is not the one that never fails…
 but the one that **handles failure gracefully**
 
 ---
+
+## 2026-04-30
+
+### 🎯 Topic
+Refactoring and Architecture Improvement
+
+### 🧠 What I improved
+- Separation of concerns  
+- Modular structure  
+- Clearer naming  
+
+### 💡 What I learned
+Refactoring is not rewriting, it’s clarifying.
+
+### ⚠️ What still needs work
+- Detecting hidden coupling  
+- Improving naming consistency  
+
+---
