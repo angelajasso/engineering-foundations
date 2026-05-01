@@ -683,3 +683,46 @@ Refactoring is not rewriting, it’s clarifying.
 - Improving naming consistency  
 
 ---
+
+## 2026-05-01
+
+### 🎯 Topic
+Frontend Technical Audit
+
+### 🧠 What I understood
+
+- Thinking like a senior developer means looking for problems, not validating code
+- State is the most critical part of any frontend application
+- Asynchronous handling defines the user experience
+- Architecture matters more than individual pieces of code
+
+### 😵 What was challenging
+
+- Identifying real issues in my own code
+- Evaluating without the bias of “I built this”
+- Detecting weaknesses in state management and async handling
+
+### 💡 Key insights
+
+- UI should depend on state, not the DOM
+- Without error handling, the app is not robust
+- Clean code is not enough without solid architecture
+
+### 🚀 What I improved
+
+- Better identification of state-related issues
+- Improved approach to asynchronous logic
+- More critical thinking about UX
+
+### 🔁 What I would do differently
+
+- Design state from the beginning
+- Think about edge cases before implementing
+- Separate responsibilities more clearly from the start
+
+### 🧠 Reflection
+
+I now think in terms of systems, not just individual components.  
+The quality of an application depends more on its architecture than on its UI.
+
+---
