@@ -726,3 +726,39 @@ I now think in terms of systems, not just individual components.
 The quality of an application depends more on its architecture than on its UI.
 
 ---
+
+
+---
+
+## 2026-05-03
+
+### 🎯 Topic
+JavaScript Execution Model (Call Stack + Memory Heap)
+
+### 🧠 What I understood
+
+- JavaScript executes code using a Call Stack
+- Every function creates an Execution Context
+- The stack follows a LIFO model
+- Complex data lives in the Memory Heap
+- The stack stores references, not full objects
+- The real flow is: context → stack → execution
+
+### 😵 What was harder than expected
+
+- Visualizing the Call Stack in real time
+- Understanding the difference between stack and heap
+- Tracking execution flow without running the code
+
+### 🚀 What I improved
+
+- My mental model of how JavaScript runs
+- My ability to debug function execution
+- Understanding errors like stack overflow
+
+### 🔥 Key Insight
+
+JavaScript does not execute lines of code,  
+it executes contexts within a stack.
+
+---
