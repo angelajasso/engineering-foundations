@@ -762,3 +762,16 @@ JavaScript does not execute lines of code,
 it executes contexts within a stack.
 
 ---
+
+## 2026-05-04
+
+### What I understood
+Closures allow functions to retain access to their lexical scope, enabling true data encapsulation.
+
+### What was harder than expected
+Understanding why variables persist in memory after execution.
+
+### What I improved
+Ability to design functions with private state and controlled APIs.
+
+---
