@@ -775,3 +775,38 @@ Understanding why variables persist in memory after execution.
 Ability to design functions with private state and controlled APIs.
 
 ---
+
+## 2026-05-05
+
+### 🎯 Topic
+Prototypes & Inheritance in JavaScript
+
+### 🧠 What I understood
+
+- JavaScript uses prototype-based inheritance
+- Objects delegate behavior through the prototype chain
+- The engine searches properties up the chain until null
+- Constructor functions link instances to prototypes
+- `class` is only syntactic sugar over prototypes
+
+### 😵 What was harder than expected
+
+- Understanding the difference between:
+  - `prototype`
+  - `__proto__`
+  - `[[Prototype]]`
+- Visualizing the prototype chain mentally
+
+### 🚀 What I improved
+
+- Stronger mental model of how JavaScript really works
+- Better understanding of memory optimization using prototypes
+- Ability to explain inheritance without relying on "classes"
+
+### 🔥 Next Step
+
+- Implement `new` manually
+- Recreate `Object.create`
+- Practice explaining prototype chain out loud
+
+---
