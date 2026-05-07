@@ -810,3 +810,25 @@ Prototypes & Inheritance in JavaScript
 - Practice explaining prototype chain out loud
 
 ---
+
+## 2026-05-06
+
+### What I understood
+
+Functional programming focuses on predictable code.
+
+Pure functions always return the same output for the same input.
+
+Immutability helps avoid accidental bugs caused by shared references.
+
+### What was harder than expected
+
+Detecting hidden mutations in arrays and objects.
+
+### What I improved
+
+I started thinking in data transformations instead of direct mutations.
+
+I improved code clarity and predictability.
+
+---
