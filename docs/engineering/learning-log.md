@@ -832,3 +832,36 @@ I started thinking in data transformations instead of direct mutations.
 I improved code clarity and predictability.
 
 ---
+
+## 2026-05-07
+
+
+### What I Learned
+
+Today I learned how modern JavaScript data structures
+solve specific problems more efficiently than plain
+objects and arrays.
+
+I understood:
+
+- When to use Map instead of objects
+- Why Set is ideal for unique values
+- How WeakMap helps with private data
+  and garbage collection
+
+### What Was Difficult
+
+Understanding the real difference between
+Map and regular objects.
+
+WeakMap was also harder because it involves
+memory management concepts.
+
+### What Improved
+
+- Better data modeling
+- Cleaner architecture decisions
+- More efficient JavaScript patterns
+- Stronger understanding of modern JS
+
+---
