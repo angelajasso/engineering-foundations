@@ -865,3 +865,32 @@ memory management concepts.
 - Stronger understanding of modern JS
 
 ---
+
+## 2026-05-08
+
+### What I Understood
+
+I learned how ES Modules work in real applications and how
+frontend architecture depends on clear responsibilities
+between modules.
+
+I understood that modularization is not just splitting files,
+but designing the flow of the entire system.
+
+### What Was Harder Than Expected
+
+Defining clean responsibilities between modules without
+creating unnecessary dependencies.
+
+Avoiding circular dependencies also required more planning
+than expected.
+
+### What I Improved
+
+- Project architecture
+- ES Modules usage
+- Separation of concerns
+- State organization
+- Application scalability mindset
+
+---
