@@ -1,0 +1,169 @@
+## 2026-03-30
+
+### What I understood
+Engineering is about decision-making, not just implementation.
+
+### What changed in my thinking
+I stopped focusing on "making things work" and started thinking about system structure.
+
+### What I will never do again
+Write code without a defined structure first.
+
+---
+## 2026-03-31 (retrospective)
+
+### Focus
+Web fundamentals: understanding how the web works
+
+### What I worked on
+Studied the core flow of how a website is loaded and rendered in the browser.
+
+### What I understood
+A website is not just files, but a system involving multiple steps:
+- The browser sends a request to a server
+- The server responds with HTML
+- The browser parses HTML and builds the DOM
+- CSS is applied to style the content
+- JavaScript can modify the DOM dynamically
+
+### What changed in my thinking
+I stopped seeing web development as isolated files (HTML, CSS, JS) and started understanding it as a connected system with a defined flow.
+
+### Key insight
+Understanding the web flow allows me to reason about what is happening behind the scenes instead of just writing code.
+
+### Gaps
+I still need to deepen my understanding of how CSS and JavaScript interact with the rendering process.
+
+### Next step
+Apply this mental model while building real pages to reinforce the concepts.
+
+---
+
+## 2026-04-01 (retrospective)
+
+### Focus
+Semantic HTML and page structure (header, main, footer)
+
+### What I worked on
+Built the base structure of a portfolio project from scratch using semantic HTML elements.
+
+### What I understood
+HTML is not only about layout, but about meaning and structure. Using semantic tags improves readability and accessibility.
+
+### Problems
+I was unsure when to use <section> vs <article>, and initially relied too much on <div> elements.
+
+### What I discovered
+- <section> is used to group related content within a page
+- <article> is used for independent, self-contained content
+- Overusing <div> leads to poor structure and less meaningful HTML
+
+### Improvements I made
+- Replaced multiple <div> elements with <section> and <article>
+- Structured the layout using header, main, and footer
+
+### Key takeaway
+Semantic HTML is essential for building scalable and accessible interfaces, not just cleaner code.
+
+### Gaps
+Some decisions were made by intuition; I still need more practice distinguishing section vs article in complex layouts.
+
+### Next step
+Practice semantic structure in more complex UI layouts and reinforce accessibility principles.
+
+---
+
+## 2026-04-02 (retrospective)
+
+### Focus
+Project structure and folder systems
+
+### What I worked on
+Designed a folder structure and created a base template for a web project.
+
+### What I understood
+A project is not just code files, but a system that needs organization to remain scalable and maintainable.
+
+### What changed in my thinking
+I stopped creating files randomly and started thinking about structure before implementation.
+
+### Problems
+Without a clear structure, it was easy to lose track of files and responsibilities within the project.
+
+### What I discovered
+- Folder structure should be intentional
+- Separation of concerns improves clarity
+- A good template accelerates future development
+
+### Improvements I made
+- Created a base project template
+- Organized files into meaningful directories
+- Established a clear starting point for future projects
+
+### Key takeaway
+A well-designed folder system prevents chaos and makes projects easier to scale and maintain.
+
+### Next step
+Apply this structure consistently while building real projects like my portfolio.
+
+---
+
+## 2026-04-03
+
+### Accessibility issues detected
+- Missing semantic structure
+- Poor heading hierarchy
+- Non-descriptive links
+- Missing alt attributes
+
+### Improvements applied
+- Refactored HTML using semantic tags
+- Fixed heading structure
+- Improved link clarity
+- Added descriptive alt text
+
+### What I underestimated about accessibility
+I underestimated how critical HTML structure is for non-visual users. Accessibility is not an enhancement but a fundamental part of building reliable web interfaces.
+
+### Key takeaway
+Accessibility is not a feature. It is a requirement for building inclusive and high-quality web applications.
+
+---
+
+## 2026-04-04 (retrospective)
+
+### Focus
+Component-based thinking
+
+### What I worked on
+Learned the concept of components and how to mentally break down a UI into reusable parts.
+
+### What I understood
+A component is a reusable and independent piece of a user interface that can be used multiple times across a project.
+
+### What changed in my thinking
+I stopped seeing a webpage as a single structure and started thinking of it as a collection of smaller, reusable pieces.
+
+### Problems
+At first, I was thinking in terms of full pages instead of breaking the UI into smaller parts.
+
+### What I discovered
+- Components help organize complexity
+- Reusability reduces duplication
+- Thinking in components makes systems more scalable
+
+### Improvements I made
+- Started identifying parts of a UI as components (navbar, cards, sections)
+- Began mentally structuring projects in reusable blocks instead of one large layout
+
+### Key takeaway
+Breaking a UI into components makes development more scalable, maintainable, and easier to reason about.
+
+### Gaps
+I still need to practice deciding the correct boundaries of a component.
+
+### Next step
+Apply component thinking while building my portfolio structure.
+
+---
